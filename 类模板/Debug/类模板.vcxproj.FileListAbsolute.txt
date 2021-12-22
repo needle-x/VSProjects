@@ -1,0 +1,2 @@
+G:\VS项目\类模板\Debug\类模板.exe
+G:\VS项目\类模板\Debug\类模板.pdb

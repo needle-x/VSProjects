@@ -1,0 +1,2 @@
+G:\VS项目\函数对象\Debug\函数对象.exe
+G:\VS项目\函数对象\Debug\函数对象.pdb

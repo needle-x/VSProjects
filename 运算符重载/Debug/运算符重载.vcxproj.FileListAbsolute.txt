@@ -1,0 +1,2 @@
+G:\VS项目\运算符重载\Debug\运算符重载.exe
+G:\VS项目\运算符重载\Debug\运算符重载.pdb

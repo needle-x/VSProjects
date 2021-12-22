@@ -1,0 +1,2 @@
+G:\VS项目\vector容器\Debug\vector容器.exe
+G:\VS项目\vector容器\Debug\vector容器.pdb

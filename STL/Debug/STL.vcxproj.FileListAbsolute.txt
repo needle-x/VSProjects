@@ -1,0 +1,2 @@
+G:\VS项目\STL\Debug\STL.exe
+G:\VS项目\STL\Debug\STL.pdb

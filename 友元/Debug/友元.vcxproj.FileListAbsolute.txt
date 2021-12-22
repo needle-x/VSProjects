@@ -1,0 +1,2 @@
+G:\VS项目\友元\Debug\友元.exe
+G:\VS项目\友元\Debug\友元.pdb

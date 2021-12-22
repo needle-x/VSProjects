@@ -1,0 +1,2 @@
+G:\VS项目\string容器\Debug\string容器.exe
+G:\VS项目\string容器\Debug\string容器.pdb
